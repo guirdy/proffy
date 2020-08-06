@@ -1,6 +1,6 @@
 
 # Proffy
-Projeto desenvolvido durante a NLW #02 da Rocketseat.
+Projeto desenvolvido durante a NLW #02 da [Rocketseat](https://rocketseat.com.br/). :rocket:
 
 <p>
   <a href="https://github.com/gui-leandro">
@@ -16,13 +16,15 @@ E os professores podem exibir a matéria que lecionam, disponibilizar os dias da
 
 ## 📖 Índice
 
-- [Backend](./api)
+- [Backend](./server)
 - [Web](./web)
 - [Mobile (Em construção)](./mobile)
 
 <br>
 
 <h2 align=center> Resultado Web </h2>
-<span align=center><img src="https://drive.google.com/uc?export=view&id=1v9JcNeoY2UO3an1oRXmOhkpMuBNCYSqz" width="500px"></span>
+<p align=center>
+  <img width="500px" src="https://drive.google.com/uc?export=view&id=1v9JcNeoY2UO3an1oRXmOhkpMuBNCYSqz">
+</p>
 
 <h4 align=center>Made with 💙 by <a href="https://www.linkedin.com/in/guirdy1/">Guilherme Leandro</a></h4>
